@@ -1,0 +1,5 @@
+desktop-tests/.venv/
+desktop-tests/__pycache__/
+web-tests/node_modules/
+artifacts/playwright-report/
+artifacts/test-results/
